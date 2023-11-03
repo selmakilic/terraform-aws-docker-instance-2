@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "selmakilic/docker-instance-2/aws"      #
     key_name = "selma_key1"      
 }
+```
